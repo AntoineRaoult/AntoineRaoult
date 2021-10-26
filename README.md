@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ***
 
-<img src="https://github-readme-stats.vercel.app/api?username=AntoineRaoult&count_private=true&hide_border=true&title_color=B2D742&bg_color=282828&text_color=dddddd&show_icons=true&icon_color=B2D742&hide=stars">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AntoineRaoult&layout=compact&hide_border=true&title_color=B2D742&bg_color=282828&text_color=dddddd"> 
+<img src="https://github-readme-stats.vercel.app/api?username=AntoineRaoult&count_private=true&hide_border=true&title_color=fe428e&bg_color=282828&text_color=ffffff&show_icons=true&icon_color=f8d847&hide=stars">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AntoineRaoult&layout=compact&hide_border=true&title_color=fe428e&bg_color=282828&text_color=ffffff"> 
 
 ***
 
